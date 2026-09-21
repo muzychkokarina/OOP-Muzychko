@@ -1,0 +1,15 @@
+/Users/user/OOP-Muzychko/lab2v13/bin/Debug/net10.0/lab2v13
+/Users/user/OOP-Muzychko/lab2v13/bin/Debug/net10.0/lab2v13.deps.json
+/Users/user/OOP-Muzychko/lab2v13/bin/Debug/net10.0/lab2v13.runtimeconfig.json
+/Users/user/OOP-Muzychko/lab2v13/bin/Debug/net10.0/lab2v13.dll
+/Users/user/OOP-Muzychko/lab2v13/bin/Debug/net10.0/lab2v13.pdb
+/Users/user/OOP-Muzychko/lab2v13/obj/Debug/net10.0/lab2v13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/OOP-Muzychko/lab2v13/obj/Debug/net10.0/lab2v13.AssemblyInfoInputs.cache
+/Users/user/OOP-Muzychko/lab2v13/obj/Debug/net10.0/lab2v13.AssemblyInfo.cs
+/Users/user/OOP-Muzychko/lab2v13/obj/Debug/net10.0/lab2v13.csproj.CoreCompileInputs.cache
+/Users/user/OOP-Muzychko/lab2v13/obj/Debug/net10.0/lab2v13.sourcelink.json
+/Users/user/OOP-Muzychko/lab2v13/obj/Debug/net10.0/lab2v13.dll
+/Users/user/OOP-Muzychko/lab2v13/obj/Debug/net10.0/refint/lab2v13.dll
+/Users/user/OOP-Muzychko/lab2v13/obj/Debug/net10.0/lab2v13.pdb
+/Users/user/OOP-Muzychko/lab2v13/obj/Debug/net10.0/lab2v13.genruntimeconfig.cache
+/Users/user/OOP-Muzychko/lab2v13/obj/Debug/net10.0/ref/lab2v13.dll
