@@ -164,3 +164,11 @@ public class OrderService : IOrderService
         await _orderRepository.AddAsync(order);
     }
 }
+
+## Скріншоти проаналізованих фрагментів коду на GitHub
+
+### 1. Фрагмент коду з репозиторію eShopOnWeb
+![Фрагмент коду eShopOnWeb](![alt text](image.png))
+
+### 2. Фрагмент коду з репозиторію NLog
+![Фрагмент коду NLog](![alt text](image-1.png))
